@@ -1,4 +1,2 @@
-for file in /alx-system_engineering-devops/0x00-shell_basics/*; 
-  do
-    echo 
-  done
+#!/bin/bash
+ls
