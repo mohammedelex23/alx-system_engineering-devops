@@ -1,1 +1,1 @@
-This repo is for studying devops
+This repo is for studying devops at ALX Afri
